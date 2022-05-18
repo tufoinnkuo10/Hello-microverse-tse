@@ -1,0 +1,18 @@
+body {
+  margin: auto;
+  width: 1024px;
+  padding: 10px;
+  background-color: #ebebeb;
+  font-size: 14px;
+}
+
+/* heading section style */
+.heading {
+  font-size: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 5rem;
+  color: blue;
+  font-weight: bolder;
+}
